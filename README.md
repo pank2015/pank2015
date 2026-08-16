@@ -55,6 +55,7 @@ The curriculum I wish I'd had: 8 phases from software design to AI/ML architectu
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Agentic AI:** LLM orchestration · RAG / GraphRAG · multi-provider fallback (LiteLLM) · guardrails & grounding · prompt-injection defense · human-in-the-loop
+**Data × agents:** lakehouse ingestion · vectorization & vector search · Data Mesh · Lakebase · agentic systems on the lakehouse
 **Architecture:** C4 modeling · ADRs · event-driven & micro-frontends · serverless · cost-bounded design
 
 ---
@@ -62,6 +63,8 @@ The curriculum I wish I'd had: 8 phases from software design to AI/ML architectu
 ### 📈 Currently
 
 Building autonomous, trustworthy AI systems in public — and writing about the architecture behind them on [Signalgraph](https://github.com/pank2015/signalgraph-site).
+
+🔭 **Exploring now:** agentic systems on the lakehouse — Databricks-native ingestion, vectorization & vector search, Data Mesh, and Lakebase as agent memory.
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/pankajbabre/)
 
