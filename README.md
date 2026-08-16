@@ -88,7 +88,3 @@ Not prompts with ambition — *systems*. Grounded. Cost-bounded. Human-governed.
 
 🔭 **Exploring now:** agentic systems on the lakehouse.
 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/pankajbabre/)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pank2015&show_icons=true&hide_border=true&theme=tokyonight" alt="Pankaj's GitHub stats" height="160">
-</p>
