@@ -2,7 +2,7 @@
   <img src="assets/header.png" alt="Pankaj — Solutions Architect to Agentic AI Architect. I build AI agents you can actually trust." width="100%">
 </p>
 
-# Pankaj 👋
+# Hello..!!👋
 
 > Two decades architecting enterprise systems. Now pointed at one question:
 > **how do you make autonomous AI dependable in production?**
