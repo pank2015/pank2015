@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/header.png" alt="Pankaj — Solutions Architect to Agentic AI Architect. I build AI agents you can actually trust." width="100%">
-</p>
-
 # Hello..!!👋
 
 > Two decades architecting enterprise systems. Now pointed at one question:
